@@ -1,0 +1,18 @@
+[submodule "java/algbase"]
+	path = java/algbase
+	url = https://github.com/algorithmzuo/algorithmbasic2020.git
+[submodule "java/trainingcamp001"]
+	path = java/trainingcamp001
+	url = https://github.com/algorithmzuo/trainingcamp001.git
+[submodule "java/trainingcamp002"]
+	path = java/trainingcamp002
+	url = https://github.com/algorithmzuo/trainingcamp002.git
+[submodule "java/trainingcamp003"]
+	path = java/trainingcamp003
+	url = https://github.com/algorithmzuo/trainingcamp003.git
+[submodule "java/trainingcamp004"]
+	path = java/trainingcamp004
+	url = https://github.com/algorithmzuo/trainingcamp004.git
+[submodule "java/trainingcamp005"]
+	path = java/trainingcamp005
+	url = https://github.com/algorithmzuo/trainingcamp005.git
